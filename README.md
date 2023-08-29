@@ -30,13 +30,13 @@
 <div align="center">
   
   <a href="https://www.facebook.com/fakeboow/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangsonha-facebook" />
   </a>
   
   
   
   <a href="mailto:hoangsonhadev@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangsonha-email" />
   </a>
 </div>
 
@@ -47,6 +47,6 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/hoangsonhadev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/hoangsonhadev-quotes.svg" width="846" height="150" alt="hoangsonhaanime" />
 </a>
 
