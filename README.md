@@ -21,8 +21,8 @@
 
 
 
-<details>
-<sumary><h3><b>🔮 Tech Stacks</b></h3></sumary>
+
+<h3><b>🔮 Tech Stacks</b></h3>
 
   
   - ##### Backends
@@ -46,7 +46,7 @@
    - ##### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-</details>
+
 
 <details><summary>
 <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
