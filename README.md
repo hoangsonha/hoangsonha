@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/hoangsonha?tab=repositories)
 - 😅 I want to be SA in the next 7 years 🐧
 
-- ⚡ Fun fact  **I love football, bida, batminton, travelling, game, ... **
+- 🚀 **I love football, bida, batminton, travelling, game, ... **
 
 - 🔥 I am going to do everything that I can to make money by coding 🔥🔥🔥🔥🔥
  <br>
