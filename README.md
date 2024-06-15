@@ -109,6 +109,19 @@ vite-project             27 mins             ░░░░░░░░░░░�
   </a> &nbsp;&nbsp;
 
 <div align="center">
+  
+  <a href="https://www.facebook.com/fakeboow/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangsonha-facebook" />
+  </a>
+  
+  
+  
+  <a href="mailto:hoangsonhadev@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangsonha-email" />
+  </a>
+</div>
+
+<div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 TP.HCM Hoàng Sơn Hà
 </div>
