@@ -57,7 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonha&theme=radical&hide_border=true"/>
 </div>
 <br/>
-<br>
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> For more information, <span align="center">👽 Where to find me 👽</span>
 
 <p align="center">
