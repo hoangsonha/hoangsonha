@@ -139,7 +139,12 @@ vite-project             27 mins             ░░░░░░░░░░░�
   alt="Cat with Tears of Joy"
   width="25"
   height="25"
-/>Watch it to relax</h2>
+/> Watch it to relax <img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/></h2>
 <br>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
