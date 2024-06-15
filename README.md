@@ -6,21 +6,30 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 
-<span><a><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="25"></a> Java</span>
-&nbsp;
-<span><a><img src="https://cdn-0.huongdanjava.com/wp-content/uploads/2016/10/spring-boot.png" height="25"></a> Spring boot</span>
-&nbsp;
-<span><a><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"></a> JavaScript</span>
-&nbsp;
-<span><a><img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" height="25"></a> HTML</span>
-&nbsp;
-<span><a><img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" height="25"></a>CSS</span>
-&nbsp;
-<span><a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" height="25"></a> BootStrap5</span>
-&nbsp;
-<span><a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" height="25"></a> IntelliJ Ultimate</span>
-&nbsp;
+- ##### Backends
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![.Net](https://img.shields.io/badge/dotnet-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
+- ##### API
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+   - ##### Frontends
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2300A6D3.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
+
+     - ##### Databases
+  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
 <br>
@@ -50,9 +59,4 @@
   <img src="svg/hoangsonhadev-quotes.svg" width="846" height="150" alt="hoangsonhaanime" />
 </a>
 
-- ##### Backends
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![.Net](https://img.shields.io/badge/dotnet-%238A2BE2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
