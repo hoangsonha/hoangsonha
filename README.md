@@ -132,6 +132,8 @@ vite-project             27 mins             ░░░░░░░░░░░�
   <img src="svg/hoangsonhadev-quotes.svg" width="846" height="150" alt="hoangsonhaanime" />
 </a>
 
+<br>
+<br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 TP.HCM Hoàng Sơn Hà
