@@ -7,8 +7,7 @@
     </div>    
     <!-- FOOTER -->
     <img src = "IMPORT FILES/PROFILEFooter.png" alt = "Profile Footer" style = "width: 100%;"/>
-<br>
-</div>
+</div><br/>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hoangsonha?style=social"> &nbsp;&nbsp;  <img alt="GitHub forks" src="https://img.shields.io/github/forks/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hoangsonha/hoangsonha?color=blue&style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hoangsonha&label=Profile%20views&color=brightgreen&style=flat" alt="hoangsonha"/> &nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
 
