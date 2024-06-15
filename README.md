@@ -115,10 +115,7 @@ vite-project             27 mins             ░░░░░░░░░░░�
   </a>
 </div>
 
-<div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 TP.HCM Hoàng Sơn Hà
-</div>
+
 
 
 
@@ -128,30 +125,18 @@ vite-project             27 mins             ░░░░░░░░░░░�
 </a>
 
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  
-  <a href="https://www.facebook.com/fakeboow/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangsonha-facebook" />
-  </a>
-  
-  
-  
-  <a href="mailto:hoangsonhadev@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangsonha-email" />
-  </a>
-</div>
-
-<br>
-
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/hoangsonhadev-quotes.svg" width="846" height="150" alt="hoangsonhaanime" />
 </a>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 TP.HCM Hoàng Sơn Hà
+</div>
+
+
 
 
