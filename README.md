@@ -100,13 +100,7 @@ vite-project             27 mins             ░░░░░░░░░░░�
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> For more information, <span align="center">👽 Where to find me 👽</span>
 
 <p align="center">
-  <a href="mailto:hoangsonhadev@gmail.com" >
-    <img align="center" alt="phuuthanh2003 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/fakeboow/" target="_blank">
-      <img align="center" alt="phuuthanh2003 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
+
 
 <div align="center">
   
