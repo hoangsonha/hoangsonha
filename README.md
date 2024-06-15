@@ -26,7 +26,7 @@
   ![React](https://img.shields.io/badge/react-%2300A6D3.svg?style=for-the-badge&logo=react&logoColor=white)
   ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
-<h2 align="center">##### 🛠 Databases 🛠</h2>
+- #####<h2 align="center">🛠 Databases 🛠</h2>
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
