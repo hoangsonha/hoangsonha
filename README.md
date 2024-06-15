@@ -1,3 +1,10 @@
+ <p align="center">
+  <a href="#"> <img src="assets/2.gif"><a/>
+  <a href="#"><img src="assets/8.gif"><a/>
+  <a href="#"><img src="assets/0.gif"><a/>
+  <a href="#"><img src="assets/6.gif"><a/>
+</p>
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hoangsonha?style=social"> &nbsp;&nbsp;  <img alt="GitHub forks" src="https://img.shields.io/github/forks/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hoangsonha/hoangsonha?color=blue&style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hoangsonha&label=Profile%20views&color=brightgreen&style=flat" alt="hoangsonha"/> &nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
 
 <div align="center">
