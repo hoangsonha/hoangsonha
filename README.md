@@ -19,7 +19,7 @@
 ##
 <img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
 
-
+<br>
 
 
 <h3><b>🔮 Tech Stacks</b></h3>
@@ -47,9 +47,9 @@
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
 
-
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><span><b>About Some Stats</b></span>
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><span style: font-size=18px;><b>About Some Stats</b></span>
 
 
 <div align="center">
