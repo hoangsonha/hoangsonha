@@ -14,14 +14,11 @@
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/hoangsonha?tab=repositories)
 - 😅 I want to be SA in the next 7 years 🐧
 
-- ⚡ Fun fact **I love football, bida, batminton, travelling, game, ... **
+- ⚡ Fun fact  **I love football, bida, batminton, travelling, game, ... **
   
 ##
 <img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
-
 <br>
-
-
 <h3><b>🔮 Tech Stacks</b></h3>
 
   
@@ -46,12 +43,11 @@
    - ##### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br>
 <summary>
 <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
 </summary>
-
+<br>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonha&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="hoangsonha"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hoangsonha&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="hoangsonha"/>
