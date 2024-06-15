@@ -15,6 +15,8 @@
 - 😅 I want to be SA in the next 7 years 🐧
 
 - ⚡ Fun fact  **I love football, bida, batminton, travelling, game, ... **
+
+- 🔥 I am going to do everything that I can to make money by coding
   
 ##
 <img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
