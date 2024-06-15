@@ -1,8 +1,5 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hoangsonha?style=social"> &nbsp;&nbsp;  <img alt="GitHub forks" src="https://img.shields.io/github/forks/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hoangsonha/hoangsonha?color=blue&style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hoangsonha&label=Profile%20views&color=brightgreen&style=flat" alt="hoangsonha"/> &nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
 
-
-<img alt="Open VSX Rating (Stars) badge" src="https://img.shields.io/badge/rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen">
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3000&pause=800&color=BF91F3&multiline=true&random=false&width=720&height=130&lines=Welcome+to+my+profile+🖐️" alt="Title" />
 </div>
