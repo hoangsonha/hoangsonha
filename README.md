@@ -44,6 +44,7 @@
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
+<br>
 <summary>
 <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
 </summary>
@@ -67,15 +68,11 @@
   <a href="https://www.facebook.com/fakeboow/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangsonha-facebook" />
   </a>
-  
-  
-  
+
   <a href="mailto:hoangsonhadev@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangsonha-email" />
   </a>
 </div>
-
-
 
 <br>
 <br>
