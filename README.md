@@ -1,9 +1,13 @@
- <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
-</p>
+<div style = "display: flex; flex-direction: column; align-items: center;">
+    <!-- HEADER -->
+    <img src = "IMPORT FILES/PROFILEHeader.png" alt = "Profile Header" style = "width: 100%;"/>   
+    <!-- BUTTON LINKS -->
+    <div style = "display: flex; justify-content: center; align-items: center; width: 100%;">
+        <a href = "#"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a><a href = "#"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a><a href = "https://linkedin.com/in/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a><a href = "https://github.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 16%; height: 30px;"></a><a href = "https://facebook.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a><a href = "https://instagram.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a><a href = "https://twitter.com/norzzielein"><img src = "BUTTONGitHub.svg" style = "width: 14%; height: 30px;"></a>
+    </div>    
+    <!-- FOOTER -->
+    <img src = "IMPORT FILES/PROFILEFooter.png" alt = "Profile Footer" style = "width: 100%;"/>
+</div>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hoangsonha?style=social"> &nbsp;&nbsp;  <img alt="GitHub forks" src="https://img.shields.io/github/forks/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hoangsonha/hoangsonha?color=blue&style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hoangsonha&label=Profile%20views&color=brightgreen&style=flat" alt="hoangsonha"/> &nbsp;&nbsp; [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
 
