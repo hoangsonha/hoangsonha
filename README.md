@@ -11,10 +11,11 @@
 ##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
-- <br>
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/hoangsonha?tab=repositories)
 - 😅 I want to be SA in the next 7 years 🐧
+- 
 - 🚀 **I love football, bida, batminton, travelling, game, ... **
+- 
 - 🔥 I am going to do everything that I can to make money by coding 🔥🔥🔥🔥🔥
  <br>
 <img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
