@@ -82,7 +82,7 @@
 </a>
 
 <br>
-
+<br>
 <h2><img
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
   alt="Cat with Tears of Joy"
@@ -98,6 +98,7 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 
+<br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 TP.HCM Hoàng Sơn Hà
