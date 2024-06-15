@@ -133,6 +133,10 @@ vite-project             27 mins             ░░░░░░░░░░░�
 
 <br>
 <br>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
+
+
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 TP.HCM Hoàng Sơn Hà
