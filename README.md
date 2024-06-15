@@ -123,15 +123,6 @@ vite-project             27 mins             ░░░░░░░░░░░�
   <img src="svg/hoangsonhadev.svg" width="1200" alt="hoangsonhaanime" />
 </a>
 
-
-<br>
-<h2>📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/hoangsonhadev-quotes.svg" width="1200" height="150" alt="hoangsonhaanime" />
-</a>
-
-<br>
 <br>
 
 <h2><img
