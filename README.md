@@ -19,7 +19,7 @@
 ##
 <img alt="GIF" src="https://github.com/hoangsonha/hoangsonha1/blob/master/svg/mario.gif"/>
 <br>
-<h3><b>🔮 Tech Stacks</b></h3>
+<summary><h3><b>🔮 Tech Stacks</b></h3></summary>
 
   
   - ##### Backends
