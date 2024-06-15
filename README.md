@@ -134,6 +134,8 @@ vite-project             27 mins             ░░░░░░░░░░░�
 <br>
 <br>
 
+<h2>Watch it to relax</h2>
+<br>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 
