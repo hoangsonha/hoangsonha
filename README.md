@@ -22,7 +22,7 @@
 
 
 <details>
-<summary><h3><b>🔮 Tech Stacks</b></h3></summary>
+<h3><b>🔮 Tech Stacks</b></h3>
 
   
   - ##### Backends
