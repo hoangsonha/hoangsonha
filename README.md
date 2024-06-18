@@ -20,10 +20,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Hoàng+Sơn+Hà" alt="Title"/><br/>
-</div>
-
 ##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
