@@ -21,6 +21,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3000&pause=800&color=BF91F3&multiline=true&random=false&width=720&height=130&lines=Welcome+to+my+profile+🖐️" alt="Title" />
 </div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3800&color=BF91F3&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+MGBrave+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="MGBrave" width="950" height="90">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Hoàng+Sơn+Hà" alt="Title"/><br/>
 </div>
