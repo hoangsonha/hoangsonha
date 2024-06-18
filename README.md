@@ -14,7 +14,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/hoangsonha?style=social"> &nbsp;&nbsp;  <img alt="GitHub forks" src="https://img.shields.io/github/forks/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/hoangsonha/hoangsonha?style=social"> &nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=hoangsonha&label=Profile%20views&color=brightgreen&style=flat" alt="hoangsonha"/> &nbsp;&nbsp; [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3800&color=BF91F3&background=FFFFFF00&center=true&vCenter=true&width=650&height=75&lines=Hey!+It's+MGBrave+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="MGBrave" width="950" height="90">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=80&duration=3800&color=BF91F3&background=FFFFFF00&center=true&vCenter=true&width=650&height=100&lines=Hey!+It's+MGBrave+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Software+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;" alt="MGBrave" width="950" height="90">
 
 </div>
 
