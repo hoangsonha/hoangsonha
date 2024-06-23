@@ -83,7 +83,7 @@
   </a>
 
     <a href="https://www.facebook.com/fakeboow/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="hoangsonha-linkedln" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoangsonha-linkedln" />
   </a>
     
   <a href="mailto:hoangsonhadev@gmail.com" target="top">
