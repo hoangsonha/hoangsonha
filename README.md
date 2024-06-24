@@ -44,6 +44,8 @@
 
   - ### API
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+  
   - ### Frontends
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
