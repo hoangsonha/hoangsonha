@@ -51,7 +51,6 @@
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2300A6D3.svg?style=for-the-badge&logo=react&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
    - ### Databases
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -125,7 +124,7 @@
 <br>
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 TP.HCM Hoàng Sơn Hà
+  &copy; 2026 TP.HCM Hoàng Sơn Hà
 </div>
 
 
