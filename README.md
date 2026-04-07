@@ -24,7 +24,7 @@
 
 - 🔭 I'm graduated from [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/) with a degree in **Software Engineering**, with a GPA of 3.1/4.0 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/hoangsonha?tab=repositories)
-- 😅 I want to be a Senior Fullstack Developer in the next 3 years and eventually advance to a Solution Architect within the next 6-9 years 🐧
+- 😅 I want to be a Senior Fullstack Developer in the next 3-4 years and eventually advance to a SA within the next 6-9 years 🐧
   
 - 🚀 I love football, billiard, batminton, running, movie, travelling, game, ...
   
