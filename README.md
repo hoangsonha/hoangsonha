@@ -15,16 +15,16 @@
 
 <div align="center">
     
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB;I+am+22+😉;I+am+a+Web+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+VietNam;" alt="SonHa" width="950" height="100">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=50&duration=3800&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+Welcome+to+my+profile+%F0%9F%91%8B%F0%9F%8F%BB;I+am+24+😉;I+am+a+Full-Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+VietNam;" alt="SonHa" width="950" height="100">
 
 </div>
 <br>
 
 ##
 
-- 🔭 I’m currently fourth-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
+- 🔭 I'm graduated from [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/) with a degree in **Software Engineering**, with a GPA of 3.1/4.0 
 - 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/hoangsonha?tab=repositories)
-- 😅 I want to be SA in the next 10 years 🐧
+- 😅 I want to be a Senior Fullstack Developer in the next 3-4 years and eventually advance to a Solution Architect within the next 6-9 years 🐧
   
 - 🚀 I love football, billiard, batminton, running, movie, travelling, game, ...
   
