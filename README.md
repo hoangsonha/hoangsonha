@@ -63,11 +63,11 @@
      
 <br>
 <br>
-
+<summary>
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
+</summary>
 <br>
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonha&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="hoangsonha"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=hoangsonha&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="hoangsonha"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonha&theme=radical&hide_border=true"/>
@@ -76,9 +76,6 @@
 <br>
 <br>
 
-<a href="#" target="_blank">
-  <img src="svg/hoangsonhadev.svg" width="1200" alt="hoangsonhaanime" />
-</a>
 
 <br>
 <br>
