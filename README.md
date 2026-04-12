@@ -63,9 +63,7 @@
      
 <br>
 <br>
-<summary>
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="30px"><h3><b>About Some Stats</b></h3>
-</summary>
+
 <br>
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonha&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="hoangsonha"/>
@@ -73,28 +71,6 @@
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonha&theme=radical&hide_border=true"/>
-</div>
-<br/>
-
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> For more information, <span align="center">👽 Where to find me 👽</span>
-
-<p align="center">
-
-
-<div align="center">
-  
-  <a href="https://www.facebook.com/fakeboow/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangsonha-facebook" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/hoangsonha/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoangsonha-linkedin" />
-  </a>
-    
-  <a href="mailto:hoangsonhadev@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangsonha-email" />
-  </a>
-  
 </div>
 
 <br>
